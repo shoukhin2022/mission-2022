@@ -1,0 +1,33 @@
+body {
+    font-family: 'Sora', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.mission {
+    color: rgb(255, 173, 90);
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 50%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(259, 89, 89);
+    padding: 12px 30px;
+    border-radius: 5px;
+    color: white;
+}

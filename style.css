@@ -72,6 +72,17 @@
             margin: 3px;
         }
         
+        #devlimit {
+            padding-right: 100px;
+        }
+        
+        #girlpic {
+            background-image: url(images/shapes/shape-1.png);
+            background-repeat: no-repeat;
+            background-position: left;
+            background-size: 200px 170px;
+        }
+        
         .contact {
             background-color: rgb(230, 212, 230);
             margin-left: 30px;

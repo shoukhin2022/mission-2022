@@ -20,7 +20,6 @@
         
         h3 span {
             font-size: 20px;
-            padding-left: 30px;
         }
         
         .mission {
@@ -73,7 +72,12 @@
             margin: 3px;
         }
         
-        #devlimit {}
+        .contact {
+            background-color: rgb(230, 212, 230);
+            margin-left: 30px;
+            margin-right: 100px;
+            margin-bottom: 20px;
+        }
         
         footer {
             background-color: black;

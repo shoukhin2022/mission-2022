@@ -18,6 +18,11 @@
             font-size: 50px;
         }
         
+        h3 span {
+            font-size: 20px;
+            padding-left: 30px;
+        }
+        
         .mission {
             color: rgb(255, 173, 90);
         }
@@ -40,6 +45,10 @@
             color: white;
         }
         
+        .mission-details {
+            padding-left: 30px;
+        }
+        
         .trisec {
             width: 25%;
             padding: 20px;
@@ -47,6 +56,21 @@
         
         .trisec img {
             width: 80%;
+        }
+        
+        #goals {
+            background-color: rgb(236, 230, 226);
+            margin: 3px;
+        }
+        
+        #method {
+            background-color: rgb(252, 205, 205);
+            margin: 3px;
+        }
+        
+        #activities {
+            background-color: thistle;
+            margin: 3px;
         }
         
         #devlimit {}
